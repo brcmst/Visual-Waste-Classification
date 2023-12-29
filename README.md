@@ -53,4 +53,6 @@ Proje dosyalarının arasında bulunan test klasöründen rastgele bir metal fot
 seçilsin. Bir sonraki aşama ‘Tahmin Et’ butonuna basmaktır. Bu butona basıldığında
 oluşturulan ‘atik001.h5’ modelinin kullanılarak yapılan tahmine dayalı sonuç ekrana
 gelmektedir.
+![image](https://github.com/brcmst/Visual-Waste-Classification/assets/63057571/45f9e860-f392-4548-8803-d2938df50287)
+![image](https://github.com/brcmst/Visual-Waste-Classification/assets/63057571/6d7e002e-52be-493a-a2a1-fcd5311b4f01)
 
