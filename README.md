@@ -1,4 +1,4 @@
-‘Görüntülü Atık Sınıflandırma Projesi’ bir nesne tespiti ve tanıma projesidir. Nesne
+‘Visual Waste Classification’ bir nesne tespiti ve tanıma projesidir. Nesne
 tespiti genel olarak dijital görüntü ve videolarda belirli bir sınıfa (metal, kağıt, cam gibi) ait
 olan nesnenin belirginleşmesi ve işlenecek olan nesnenin arka plandan ayrılması ile ilgilenen,
 bilgisayarlı görü ve görüntü işleme ile ilgili bir bilgisayar teknolojisi olarak tanımlanmaktadır.
